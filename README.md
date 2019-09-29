@@ -19,15 +19,15 @@ Little tunning help:
 -start3G.bat have enabled 3GB kernel for all devices available
 -start4G.bat have enabled 4GB kernel for all devices available 
 
-Usage:
+###Usage:
 
---help / -h  			Showing available parameters
---server <server>:<port>	The BEAM stratum server and port to connect to (required)
---user <wallet.name>		The BEAM stratum server API key (required), on a Beam mining pool the user name / wallet addres
---devices <numbers>		A comma seperated list of devices that should be used for mining (default: all in system)
---beamHashI			Force mining BeamHash I (pre fork)
---force3G			Force miner to use max 3G for all installed GPUs
---version			Prints the version number of miner
+###--help / -h  			Showing available parameters
+###--server <server>:<port>	The BEAM stratum server and port to connect to (required)
+###--user <wallet.name>		The BEAM stratum server API key (required), on a Beam mining pool the user name / wallet addres
+###--devices <numbers>		A comma seperated list of devices that should be used for mining (default: all in system)
+###--beamHashI			Force mining BeamHash I (pre fork)
+###--force3G			Force miner to use max 3G for all installed GPUs
+###--version			Prints the version number of miner
 
-Important!!!
--Change wallet addres in batch files if you not change address miner will mine for developer...
+###Important!!!
+###-Change wallet addres in batch files if you not change address miner will mine for developer...
