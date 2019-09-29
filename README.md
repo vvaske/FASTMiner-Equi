@@ -6,18 +6,18 @@ download binary from release windows only
 
 FASTMiner-Equi by VASKE, currently support only beamhash 1 and 2.
 
-DevFee:
--Developer fee is 1%, every hour the miner mines for 1 minute for developer, but in this beta version currently is disabled.
+### DevFee:
+### -Developer fee is 1%, every hour the miner mines for 1 minute for developer, but in this beta version currently is disabled.
 
-Why is DevFee disabled?
--This is beta version and have maybe some bug's also need more tuning in miner to do because of that is not fair to be turned on DevFee.
+### Why is DevFee disabled?
+### -This is beta version and have maybe some bug's also need more tuning in miner to do because of that is not fair to be turned on DevFee.
 
-Little tunning help:
--By default miner using 4GB kernel in some cases is faster 3GB kernel, for enabling that 3GB kernel add in batch file --force3G.
+### Little tunning help:
+###-By default miner using 4GB kernel in some cases is faster 3GB kernel, for enabling that 3GB kernel add in batch file --force3G.
 
--Added two batch files examle: start3G.bat and start.bat
--start3G.bat have enabled 3GB kernel for all devices available
--start4G.bat have enabled 4GB kernel for all devices available 
+### -Added two batch files examle: start3G.bat and start.bat
+### -start3G.bat have enabled 3GB kernel for all devices available
+### -start4G.bat have enabled 4GB kernel for all devices available 
 
 ### Usage:
 
